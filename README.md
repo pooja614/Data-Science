@@ -1,8 +1,15 @@
 # Data-Science 
 
 #### Car Price Prediction 
+* Statistical Analysis, multicollinearity variable transformation, linearity, boxplots etc is used. 
+* Modelling, evaluation and feature selection. 
 
-
+#### Book Reviews Topic Modelling
+* NLP based project deals with Topic Modelling of book reviews.
+* Tweets are preprocessed based on nature of the data. Word Cloud,
+frequency of words is explored.
+* LDA and BERTopic is used for topic modelling. Different visualizations are
+applied.
 #### Sentimental Analysis of Book Reviews with Bidirectional LSTM
 
 * The project deals with sentimental binary classification of book
