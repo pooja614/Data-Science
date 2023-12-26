@@ -30,7 +30,8 @@ methods, background, results and conclusion.
 * This Deep Learning project deals with multiclass classification of weather
 images using CNN.
 * EDA, experimentation with sequential model as well as modelling
-through transfer learning. Dataset is augmented, dropout regularization
+through transfer learning.
+* Dataset is augmented, dropout regularization
 is applied, callbacks and early stopping is employed.
 * Adam optimizers' learning rate is experimented and fine- tuned.
 * Sequential Model has given 86% training accuracy and 78% test accuracy.
